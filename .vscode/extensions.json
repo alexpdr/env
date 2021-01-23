@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "kiteco.kite",
+        "tabnine.tabnine-vscode",
+        "littlefoxteam.vscode-python-test-adapter",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "wholroyd.jinja",
+        "wyattferguson.jinja2-snippet-kit",
+        "coenraads.bracket-pair-colorizer",
+        "ms-vscode-remote.remote-containers",
+        "equinusocio.vsc-community-material-theme",
+        "pkief.material-icon-theme"
+    ]
+}

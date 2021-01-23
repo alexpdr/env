@@ -1,0 +1,19 @@
+{
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    "editor.minimap.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Palenight",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "python.pythonPath": "/usr/bin/python3",
+    "python.venvPath": "~/.virtualenvs, ~/.cache/pypoetry/virtualenvs/",
+    "python.venvFolders": [
+        "~/.virtualenvs",
+        "~/.cache/pypoetry/virtualenvs/"
+    ],
+    "kite.showWelcomeNotificationOnStartup": false,
+    "git.autofetch": true,
+    "tabnine.experimentalAutoImports": true,
+}
