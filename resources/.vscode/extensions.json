@@ -3,7 +3,6 @@
         "ms-python.python",
         "kiteco.kite",
         "tabnine.tabnine-vscode",
-        "littlefoxteam.vscode-python-test-adapter",
         "ms-azuretools.vscode-docker",
         "eamodio.gitlens",
         "wholroyd.jinja",
@@ -11,6 +10,14 @@
         "coenraads.bracket-pair-colorizer",
         "ms-vscode-remote.remote-containers",
         "equinusocio.vsc-community-material-theme",
-        "pkief.material-icon-theme"
+        "pkief.material-icon-theme",
+        "yzhang.markdown-all-in-one",
+        "bungcip.better-toml",
+        "fiazluthfi.bulma-snippets",
+        "mikestead.dotenv",
+        "hbenl.vscode-test-explorer",
+        "rust-lang.rust",
+        "aaron-bond.better-comments",
+        "wholroyd.jinja",
     ]
 }

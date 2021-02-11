@@ -8,10 +8,11 @@
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "python.pythonPath": "/usr/bin/python3",
-    "python.venvPath": "~/.virtualenvs, ~/.cache/pypoetry/virtualenvs/",
+    "python.venvPath": "~/.virtualenvs, ~/.cache/pypoetry/virtualenvs/, ${workspaceFolder}/venv/bin/python3",
     "python.venvFolders": [
         "~/.virtualenvs",
-        "~/.cache/pypoetry/virtualenvs/"
+        "~/.cache/pypoetry/virtualenvs/",
+        "${workspaceFolder}/venv/bin/python3"
     ],
     "kite.showWelcomeNotificationOnStartup": false,
     "git.autofetch": true,
